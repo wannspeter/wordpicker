@@ -1,5 +1,7 @@
 # wordpicker
 
+OPEN DOCX TO SEE SCREENSHOTS
+----------------------------------------------------------------------------------------------------
 BEST WAY TO STORE AND MANAGE KEYS
 - Through physically securing encryption systems so access should only be granted to those with adequate knowledge and intergrity.
 - Encryption keys should be stored on separate machines from the data they are used to unlock.
