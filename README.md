@@ -31,5 +31,8 @@ PROCESS FLOW OF WEB APPLICATION
 12. Words are displayed to the front end user with the one having the highest frequency being the biggest.
 13. The admin page retrieves words from database, decrypts them and displays them according to frequency.
 
+--------------------------------------------------------------------------------------------------------
+WANNS PETER | wannspeter@gmail.com | +256 756 141496  
+
 
 
