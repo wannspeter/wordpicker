@@ -12,9 +12,9 @@ BEST WAY TO STORE AND MANAGE KEYS
 ------------------------------------------------------------------------------------------------------
 
 SETTING UP
-Step 1. wordpicker.zip contains the source code of the web application. Download and Open it.
-Step 2. Add postgres super user details to pickword.java to allow it create its database and tables
-Step 3. Run the web application in eclipse with a jetty or create a war file to run in your jetty server
+1. wordpicker.zip contains the source code of the web application. Download and Open it.
+2. Add postgres super user details to pickword.java to allow it create its database and tables
+3. Run the web application in eclipse with a jetty or create a war file to run in your jetty server
 
 PROCESS FLOW OF WEB APPLICATION
 1. Wordpicker connects to postgress database
