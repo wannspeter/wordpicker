@@ -27,7 +27,7 @@ PROCESS FLOW OF WEB APPLICATION
 8. Compares new words with those in array and updates there frequency in database for matches found.
 9. if no matches found, a salted hash key is generated for each word.
 10. The salted hash is used to encrypt the word.
-11. The encrypted word is encrypted again by postgres before being saved in database. The salted hash and frequency saved without encryption.
+11. The encrypted word is encrypted again by postgres before being saved in database. The salted hash and frequency are saved without encryption.
 12. Words are displayed to the front end user with the one having the highest frequency being the biggest.
 13. The admin page retrieves words from database, decrypts them and displays them according to frequency.
 
