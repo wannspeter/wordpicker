@@ -32,8 +32,7 @@ PROCESS FLOW OF WEB APPLICATION
 13. The admin page retrieves words from database, decrypts them and displays them according to frequency.
 
 --------------------------------------------------------------------------------------------------------
-IT TOOK 5 DAYS
---------------------------------------------------------------------------------------------------------
+
 WANNS PETER | wannspeter@gmail.com | +256 756 141496  
 
 
