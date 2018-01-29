@@ -1,6 +1,6 @@
 # wordpicker
 
-OPEN DOCX TO SEE SCREENSHOTS
+OPEN DOCX FILE FOR SCREENSHOTS OF FRONT END
 ----------------------------------------------------------------------------------------------------
 BEST WAY TO STORE AND MANAGE KEYS
 - Through physically securing encryption systems so access should only be granted to those with adequate knowledge and intergrity.
